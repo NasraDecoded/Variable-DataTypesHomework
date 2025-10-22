@@ -1,7 +1,4 @@
 #Save the first and last name as variables
-from os import name
-
-
 first_name="Nasra"
 last_name="Omar"
 
@@ -11,4 +8,5 @@ last_name="Omar"
 full_name=first_name + " " + last_name
 
 print("Hello ", full_name, "!Welcome to world of decoders.")
+
 
